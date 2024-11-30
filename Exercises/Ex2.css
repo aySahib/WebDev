@@ -1,0 +1,68 @@
+.uber {
+  background-color: black;
+  color: white;
+  height: 35px;
+  border: 0 solid black;
+  font-size: 12px;
+  width: 105px; 
+  margin-bottom: 5px;
+}
+
+.amazon {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: 0 solid black;
+  height: 30px;
+  width: 140px;
+  border-radius: 15px;
+}
+
+.github {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  height: 30px;
+  border: 0 solid black;
+  font-size: 12px;
+  width: 80px; 
+  border-radius: 5px;
+}
+
+.boostrap {
+  background-color: rgb(121, 82, 179);
+  color: rgb(255, 255, 255);
+  height: 30px;
+  border: 0 solid black;
+  font-size: 12px;
+  width: 90px; 
+  border-radius: 2px;
+}
+
+.boostrap2 {
+  background-color: rgb(255, 255, 255);
+  color: rgb(108, 117, 125);
+  height: 30px;
+  border: 1px solid rgb(108, 117, 125);
+  font-size: 12px;
+  width: 90px; 
+  border-radius: 2px;
+}
+
+.linkedin {
+  background-color: rgb(10, 102, 194);
+  color: rgb(255, 255, 255);
+  border: 0 solid black;
+  height: 30px;
+  width: 200px;
+  border-radius: 15px;
+}
+
+.linkedin2 {
+  background-color: rgb(255, 255, 255);
+  color: rgb(10, 102, 194);
+  border: 1px solid rgb(10, 102, 194);
+  height: 30px;
+  width: 65px;
+  border-radius: 15px;
+  margin-top: 5px;
+  font-weight: bold;
+}
